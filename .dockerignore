@@ -1,0 +1,5 @@
+.git
+.gitignore
+Dockerfile
+nginx.conf
+# Add any other files/folders not needed in the container
